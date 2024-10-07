@@ -19,8 +19,39 @@ Reproducibility of experiments (INSA 2425)
 
 * Lab session #1 https://docs.google.com/presentation/d/1z2pX_o7cXoPtgdgdDhPsdYRpazkz_YTRJiusBpA-ZII/edit?usp=sharing
 
+## Papers to reproduce (1 out of 3)
 
- ## Resources
+* Debunking the Chessboard: Confronting GPTs Against Chess Engines to Estimate Elo Ratings and Assess Legal Move Abilities
+  - https://blog.mathieuacher.com/GPTsChessEloRatingLegalMoves/
+  - https://www.youtube.com/watch?v=6D1XIbkm4JE (video with MonsieurPhi)
+  - what about GPT4o or Claude or Llama?
+  - prompt sensitivity? 
+  - temperature?
+  - what about confronting to other chess engines?  
+  - …
+
+* COVID and Home Advantage in Football: An Analysis of Results and xG Data in European Leagues
+   - https://blog.mathieuacher.com/FootballAnalysis-xG-COVIDHome/ 
+   - what about 2023/2024?
+   - xG: instead of understat, another source of data
+   - other leagues (amateur)
+   - other sports 
+  - …
+
+* Ranking Programming Languages by Energy Efficiency SCP 2021
+  - https://github.com/greensoftwarelab/RosettaExamples  
+  - other programs/workloads? 
+  - measurements? 
+  - other programming languages?
+  - other compilers or interpreters?
+  - container effect? 
+  - other hardware? 
+  - …
+
+
+
+
+## Resources
 
   * École Jeunes Chercheuses et Jeunes Chercheurs en Programmation https://gpl-ejcp.github.io/ejcp2023 
   * Frictionless reproducibility and deep variability https://hal.science/hal-04601752 

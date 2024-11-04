@@ -20,6 +20,7 @@ Reproducibility of experiments (INSA 2425)
 * Lab session #1 https://docs.google.com/presentation/d/1z2pX_o7cXoPtgdgdDhPsdYRpazkz_YTRJiusBpA-ZII/edit?usp=sharing
 * Lab session #2 https://docs.google.com/document/d/1tZ6zE4JUAeSi562Wo6o3EGeMt653lkfJ0KEKoVyiJnI/edit?usp=sharing
 * Lab session #3 https://docs.google.com/document/d/1NmzIFWqOiGWNjQabfurQazfIYg7F55XBDt_4d0vxekQ/edit?usp=sharing
+* Lab session #4 https://docs.google.com/document/d/133jsoDZgdVg_fFccs0GyJaEPD2vh10Uoe-mTT_LJQjg/edit?usp=sharing
 
 ## Papers to reproduce (1 out of 3)
 

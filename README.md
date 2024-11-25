@@ -24,7 +24,9 @@ Reproducibility of experiments (INSA 2425)
 
 * RIP Lunar
   - Lunar really changed the world with reproducible builds https://reproducible-builds.org/ 
-  - https://linuxfr.org/news/deces-de-lunar-un-hacktiviste-pedagogue 
+  - https://linuxfr.org/news/deces-de-lunar-un-hacktiviste-pedagogue
+
+* Lab sessions #5 https://docs.google.com/document/d/1aUiXNSXgmHr1MG8DLJEYChha7MF2CYv0SWxYn8EJFTQ/edit?usp=sharing
 
 ## Papers to reproduce (1 out of 3)
 
